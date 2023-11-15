@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "skadoodle:block/crash_log_top",
+    "side": "skadoodle:block/crash_log_side"
+  }
+}
